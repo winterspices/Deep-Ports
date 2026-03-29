@@ -1,0 +1,45 @@
+T:\Coding\BepInEx\Deep Ports\bin\Debug\Deep Ports.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\Deep Ports.pdb
+T:\Coding\BepInEx\Deep Ports\bin\Debug\0Harmony.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\Assembly-CSharp.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\BepInEx.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\Oculus.VR.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\SailwindModdingHelper.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.AssetBundleModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.CoreModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.IMGUIModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.PhysicsModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.TerrainModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.UI.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\Mono.Cecil.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\MonoMod.Utils.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\MonoMod.RuntimeDetour.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.AudioModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\Crest.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\Crest.Examples.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.ParticleSystemModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.TextRenderingModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.AnimationModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.ClothModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\Oculus.Platform.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.XRModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.AIModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.VideoModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.UIModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.ImageConversionModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.VRModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.Physics2DModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.JSONSerializeModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\Newtonsoft.Json.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\UnityEngine.SharedInternalsModule.dll
+T:\Coding\BepInEx\Deep Ports\bin\Debug\0Harmony.xml
+T:\Coding\BepInEx\Deep Ports\bin\Debug\MonoMod.Utils.xml
+T:\Coding\BepInEx\Deep Ports\bin\Debug\MonoMod.RuntimeDetour.xml
+T:\Coding\BepInEx\Deep Ports\obj\Debug\Deep Ports.csproj.AssemblyReference.cache
+T:\Coding\BepInEx\Deep Ports\obj\Debug\Deep Ports.csproj.CoreCompileInputs.cache
+T:\Coding\BepInEx\Deep Ports\obj\Debug\Deep Ports.csproj.CopyComplete
+T:\Coding\BepInEx\Deep Ports\obj\Debug\Deep Ports.dll
+T:\Coding\BepInEx\Deep Ports\obj\Debug\Deep Ports.pdb
