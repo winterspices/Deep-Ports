@@ -18,6 +18,8 @@ namespace Deep_Ports
                 {
                     TerrainSetup();
 
+                    Debug.LogWarning(terrain);
+
                     if(terrain)
                     {
                         Debug.LogWarning("Loading custom ports");
@@ -34,7 +36,7 @@ namespace Deep_Ports
 
         private static void TerrainSetup()
         {
-            string path = Paths.PluginPath + "\\Leopard\\deepterrain";
+            string path = Paths.PluginPath + "\\Deep Ports\\deepports";
             if (!File.Exists(path))
             {
                 Debug.LogError("Deep Ports not installed correctly");
