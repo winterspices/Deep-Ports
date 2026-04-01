@@ -3,6 +3,8 @@ This mod dredges some ports to allow for deeper keel vessels to dock.
 
 Current ports dredged:
 * Fort Aestrin
+* Gold Rock City
+* Dragon Cliffs
 
 
 ## Installation:
