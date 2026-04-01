@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace Deep_Ports
 {
-    [BepInPlugin("com.winter.deepports","Deep Ports", "0.1")]
+    [BepInPlugin("com.winter.deepports","Deep Ports", "0.2")]
     public class PortPatcher : BaseUnityPlugin
     {
         private void Awake()
@@ -14,6 +14,6 @@ namespace Deep_Ports
 
         public const string pluginGuid = "com.winter.deepports";
         public const string pluginName = "Deep Ports";
-        public const string pluginVersion = "0.1";
+        public const string pluginVersion = "0.2";
     }
 }

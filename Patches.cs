@@ -1,5 +1,6 @@
 ﻿using BepInEx;
 using HarmonyLib;
+using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
@@ -18,15 +19,15 @@ namespace Deep_Ports
                 {
                     TerrainSetup();
 
-                    Debug.LogWarning(terrain);
-
-                    if(terrain)
+                    if(data.Count > 0)
                     {
-                        Debug.LogWarning("Loading custom ports");
-
                         Transform fa = GameObject.Find("island 15 M (Fort)").transform.Find("Terrain");
-                        fa.GetComponent<Terrain>().terrainData = terrain;
-                        fa.GetComponent<TerrainCollider>().terrainData = terrain;
+                        fa.GetComponent<Terrain>().terrainData = data["fa"];
+                        fa.GetComponent<TerrainCollider>().terrainData = data["fa"];
+
+                        Transform grc = GameObject.Find("island 1 A (gold rock)").transform.Find("Terrain");
+                        grc.GetComponent<Terrain>().terrainData = data["grc"];
+                        grc.GetComponent<TerrainCollider>().terrainData = data["grc"];
 
                         Debug.LogWarning("Custom ports loaded");
                     }
@@ -45,15 +46,16 @@ namespace Deep_Ports
             else
             {
                 AssetBundle bundle = AssetBundle.LoadFromFile(path);
-                string td = "fortaestrin";
-                terrain = bundle.LoadAsset<TerrainData>(td);
+
+                data["fa"] = bundle.LoadAsset<TerrainData>("fortaestrin");
+                data["grc"] = bundle.LoadAsset<TerrainData>("grc");
+
                 terrainInstalled = true;
                 Debug.LogWarning("Port assets loaded");
             }
         }
 
-        public static TerrainData terrain;
-
+        public static Dictionary<string,TerrainData> data = new Dictionary<string, TerrainData>();
         public static bool terrainInstalled;
     }
 }
