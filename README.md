@@ -1,2 +1,9 @@
 # Deep-Ports
-A mod for Sailwind that deepens some ports for larger ships
+This mod dredges some ports to allow for deeper keel vessels to dock.
+
+Current ports dredged:
+* Fort Aestrin
+
+
+## Installation:
+Download the .zip file from the latest [release](https://github.com/winterspices/Deep-Ports/releases). Extract and drop into your plugins folder. The .dll and assets file should be in their own folder called Deep Ports inside of the plugins folder.
